@@ -1,4 +1,5 @@
-# ordersystem
+# OrderSystem Frontend
+This application will be using port `8080`
 
 ## Project setup
 ```
